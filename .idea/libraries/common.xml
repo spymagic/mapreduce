@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="common">
+    <CLASSES>
+      <root url="file://$USER_HOME$/hadoop-2.6.2/share/hadoop/httpfs" />
+      <root url="file://$USER_HOME$/hadoop-2.6.2/share/hadoop/common" />
+      <root url="file://$USER_HOME$/hadoop-2.6.2/share/hadoop/hdfs" />
+      <root url="file://$USER_HOME$/hadoop-2.6.2/share/hadoop/mapreduce" />
+      <root url="file://$USER_HOME$/hadoop-2.6.2/share/hadoop/yarn" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/hadoop-2.6.2/share/hadoop/common" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/hadoop-2.6.2/share/hadoop/hdfs" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/hadoop-2.6.2/share/hadoop/mapreduce" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/hadoop-2.6.2/share/hadoop/yarn" recursive="false" />
+  </library>
+</component>
